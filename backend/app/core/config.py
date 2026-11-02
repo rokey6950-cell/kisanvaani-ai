@@ -1,7 +1,29 @@
+import os
 from pathlib import Path
 from typing import List, Union
 from pydantic import field_validator
 from pydantic_settings import BaseSettings
+
+def _resolve_knowledge_dir() -> str:
+    if os.environ.get("KNOWLEDGE_DIR"):
+        p = Path(os.environ["KNOWLEDGE_DIR"])
+        if p.exists():
+            return str(p.resolve())
+    candidate = (Path(__file__).resolve().parent.parent.parent.parent / "knowledge").resolve()
+    if candidate.exists():
+        return str(candidate)
+    cwd_candidate = Path("knowledge").resolve()
+    if cwd_candidate.exists():
+        return str(cwd_candidate)
+    return str(candidate)
+
+def _resolve_database_url() -> str:
+    if os.environ.get("DATABASE_URL"):
+        return os.environ["DATABASE_URL"]
+    # Vercel serverless filesystem is read-only except /tmp
+    if os.environ.get("VERCEL"):
+        return "sqlite:////tmp/kisanvaani.db"
+    return "sqlite:///./kisanvaani.db"
 
 class Settings(BaseSettings):
     APP_NAME: str = "KisanVaani AI"
@@ -17,7 +39,8 @@ class Settings(BaseSettings):
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
-        "http://127.0.0.1:3000"
+        "http://127.0.0.1:3000",
+        "*"
     ]
 
     @field_validator("CORS_ORIGINS", mode="before")
@@ -28,11 +51,10 @@ class Settings(BaseSettings):
         return v
 
     # Database Configuration
-    DATABASE_URL: str = "sqlite:///./kisanvaani.db"
+    DATABASE_URL: str = _resolve_database_url()
 
     # Agricultural Knowledge Base Directory
-    # Resolves knowledge directory located in root of workspace
-    KNOWLEDGE_DIR: str = str((Path(__file__).resolve().parent.parent.parent.parent / "knowledge").resolve())
+    KNOWLEDGE_DIR: str = _resolve_knowledge_dir()
 
     # AI Voice - Gnani API Configuration (Vachana Platform)
     GNANI_API_KEY: str = ""
@@ -56,4 +78,3 @@ class Settings(BaseSettings):
     }
 
 settings = Settings()
-
