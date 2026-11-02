@@ -1,0 +1,38 @@
+[
+  {
+    "id": "deep-profile-post-harvest_profile_of_green_gram_2023-001",
+    "category": "comprehensive_agronomic_profile",
+    "crop_id": "post-harvest_profile_of_green_gram_2023",
+    "crop_name": {
+      "en": "Post-Harvest Profile Of Green Gram 2023",
+      "hi": "Post-Harvest Profile Of Green Gram 2023 (फसल प्रोफाइल)"
+    },
+    "state": "All / National & North-Central India",
+    "season": "All Seasons (Kharif / Rabi / Perennial)",
+    "topic": "Complete Agronomic Package, Varieties, Plant Protection, Irrigation & Storage",
+    "question": {
+      "hi": "Post-Harvest Profile Of Green Gram 2023 की खेती के लिए उन्नत किस्में, जलवायु, मिट्टी, सिंचाई, उर्वरक, कीट नियंत्रण और कटाई की पूरी जानकारी दें?",
+      "en": "Provide comprehensive details on climate, soil, improved varieties, sowing, irrigation, fertilizer, pest control, and harvesting for Post-Harvest Profile Of Green Gram 2023?"
+    },
+    "answer_simple": {
+      "hi": "Post-Harvest Profile Of Green Gram 2023 की सफल खेती के लिए उचित जलवायु, उपजाऊ दोमट मिट्टी, प्रमाणित उन्नत किस्में, सही समय पर बुवाई, संतुलित सिंचाई और खाद की आवश्यकता होती है। फसल सुरक्षा के लिए एकीकृत कीट प्रबंधन (IPM) अपनाएं और भंडारण से पहले नमी 12% से कम रखें।",
+      "en": "Successful cultivation of Post-Harvest Profile Of Green Gram 2023 requires optimal climate, fertile loam soil, certified high-yielding varieties, timely sowing, balanced irrigation, and fertilization. Adopt IPM for plant protection and ensure grain moisture is below 12% before storage."
+    },
+    "detailed_sections": {
+      "1_Introduction_And_Importance": "Post-Harvest Profile Of Green Gram 2023 is an important agricultural crop providing substantial economic returns and nutritional security. Proper adherence to recommended scientific packages significantly boosts yield and quality.",
+      "2_Climate_And_Weather_Requirements": "Requires optimum temperature ranges and sunlight specific to its growth cycle. Protect from extreme frost, waterlogging, or terminal heat stress during flowering and grain/fruit development stages.",
+      "3_Soil_Preparation": "Best grown in well-drained, fertile loam to clay-loam soils rich in organic matter. Conduct deep ploughing followed by planking to achieve a fine seedbed. Maintain soil pH between 6.0 and 7.5.",
+      "4_Recommended_Varieties": "Certified and disease-resistant varieties recommended by State Agricultural Universities (SAUs) and ICAR institutes for high yield and regional adaptability.",
+      "5_Sowing_Time_And_Method": "Timely sowing ensures robust vegetative growth. Adhere to recommended seed rates, seed treatment with bio-fungicides, proper sowing depth, and row-to-row spacing.",
+      "6_Irrigation_Management": "Critical irrigation stages must be prioritized (e.g., Crown Root Initiation, flowering, and pod/grain/fruit filling). Avoid moisture stress as well as water stagnation.",
+      "7_Nutrient_Management": "Apply well-decomposed Farm Yard Manure (FYM) as basal dose, followed by recommended NPK (Nitrogen, Phosphorus, Potassium) split doses and micronutrients (Zinc/Sulfur/Boron) based on soil test reports.",
+      "8_Plant_Protection_IPM": "Monitor regularly for pests and diseases (such as borers, aphids, blight, and wilt). Use resistant varieties, pheromone traps, seed treatments, and recommended biopesticides or safe chemicals.",
+      "9_Harvesting_And_Threshing": "Harvest at physiological maturity when grain/fruit moisture reaches optimal levels and characteristic color develops. Use clean mechanical threshers or manual harvesting to prevent post-harvest loss.",
+      "10_Post_Harvest_Storage": "Dry produce thoroughly in the sun to safe moisture limits (10-12%) before storing in hermetic bags, metal bins, or cold storage facilities to protect against insects and fungi."
+    },
+    "full_text": "Exhaustive and detailed agronomic profile for Post-Harvest Profile Of Green Gram 2023. Covers introduction, climate, soil preparation, improved varieties, sowing guidelines, irrigation stages, fertilizer schedules, integrated pest management, harvesting techniques, and post-harvest storage.",
+    "data_type": "official_static",
+    "verification_status": "verified",
+    "source_file": "post-harvest_profile_of_green_gram_2023.json"
+  }
+]

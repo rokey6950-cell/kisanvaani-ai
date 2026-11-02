@@ -1,0 +1,244 @@
+[
+  {
+    "id": "commodity-wheat",
+    "crop_id": "wheat",
+    "name": {
+      "en": "Wheat",
+      "hi": "गेहूं"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-mustard",
+    "crop_id": "mustard",
+    "name": {
+      "en": "Mustard",
+      "hi": "सरसों"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-rice",
+    "crop_id": "rice",
+    "name": {
+      "en": "Rice / Paddy",
+      "hi": "धान"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-potato",
+    "crop_id": "potato",
+    "name": {
+      "en": "Potato",
+      "hi": "आलू"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-maize",
+    "crop_id": "maize",
+    "name": {
+      "en": "Maize",
+      "hi": "मक्का"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-bajra",
+    "crop_id": "bajra",
+    "name": {
+      "en": "Bajra (Pearl millet)",
+      "hi": "बाजरा"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-sugarcane",
+    "crop_id": "sugarcane",
+    "name": {
+      "en": "Sugarcane",
+      "hi": "गन्ना"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-cotton",
+    "crop_id": "cotton",
+    "name": {
+      "en": "Cotton",
+      "hi": "कपास"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-gram",
+    "crop_id": "gram",
+    "name": {
+      "en": "Gram / Chickpea",
+      "hi": "चना"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-barley",
+    "crop_id": "barley",
+    "name": {
+      "en": "Barley",
+      "hi": "जौ"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "commodity-apple",
+    "crop_id": "apple",
+    "name": {
+      "en": "Apple",
+      "hi": "सेब"
+    },
+    "agmarknet_commodity_name": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "AGMARKNET's exact commodity/variety spellings must be read from real API rows before matching.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

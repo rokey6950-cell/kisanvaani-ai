@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pest-cotton-bollworm-001",
+    "category": "plant_protection_pest",
+    "crop_id": "cotton",
+    "pest_name": {
+      "en": "American Bollworm",
+      "hi": "अमेरिकन सुंडी (हेलिकोवर्पा आर्मिगेरा)"
+    },
+    "damage_symptoms": {
+      "hi": "लारवा फूलों की कलियों (squares), फूलों और डोels (bolls) में छेद करके अंदर खाता है। सुंडी का सिर अंदर और शरीर बाहर रहता है।",
+      "en": "Larvae bore circular holes into squares, flowers, and bolls, feeding with head inside and body outside."
+    },
+    "management": {
+      "hi": "खेत में फेरोमोन ट्रैप (Pheromone traps) 5-6 प्रति एकड़ लगाएं। पक्षियों के बैठने के लिए 'T' आकार की टंकियाँ लगाएं। आवश्यकता पर KVK की सलाह से कीटनाशक छिड़कें।",
+      "en": "Install 5-6 pheromone traps per acre for mass trapping. Erect bird perches ('T' shaped) and consult KVK before chemical application."
+    }
+  },
+  {
+    "id": "pest-mustard-aphid-001",
+    "category": "plant_protection_pest",
+    "crop_id": "mustard",
+    "pest_name": {
+      "en": "Mustard Aphid",
+      "hi": "सरसों की माहू / चेपा (लिपिस इरीसिमी)"
+    },
+    "damage_symptoms": {
+      "hi": "नैनिफ और वयस्क पौधे के कोमल अंगों, फूलों और फलियों से रस चूसते हैं। चिपचिपा पदार्थ (honeydew) छोड़ते हैं जिससे फंगस लग जाती है और पौधा बौना रह जाता है।",
+      "en": "Nymphs and adults suck cell sap from tender shoots, inflorescences, and developing pods, secreting honeydew leading to sooty mold."
+    },
+    "management": {
+      "hi": "अक्टूबर के प्रथम सप्ताह में बुवाई पूरी करें। माहू के शुरुआती प्रकोप पर नीम का तेल (Neem oil 0.5%) या इमिडाक्लोप्रिड का छिड़काव करें।",
+      "en": "Complete sowing by early October. Spray neem oil (0.5%) or recommended systemic insecticides at early infestation."
+    }
+  },
+  {
+    "id": "pest-rice-stem-borer-001",
+    "category": "plant_protection_pest",
+    "crop_id": "rice",
+    "pest_name": {
+      "en": "Yellow Stem Borer",
+      "hi": "धान का पीला तना छेदक"
+    },
+    "damage_symptoms": {
+      "hi": "सुंडी तने के अंदर घुसकर खाती है जिससे मुख्य गोभ सूख जाती है (Deadheart)। बाद में बालियां सफेद और दाने खाली रह जाते हैं (White ear)।",
+      "en": "Larvae bore into stems causing drying of central shoot (deadheart) in vegetative stage and white earheads at reproductive stage."
+    },
+    "management": {
+      "hi": "रोपाई के समय प्रकाश प्रपंच (Light traps) का प्रयोग करें। कार्टाप हाइड्रोक्लोराइड (Cartap hydrochloride 4G) 10 किलो प्रति एकड़ जमीन में दें।",
+      "en": "Use light traps. Apply Cartap hydrochloride 4G @ 10 kg per acre in soil at root zone."
+    }
+  }
+]

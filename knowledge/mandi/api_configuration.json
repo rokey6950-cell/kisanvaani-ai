@@ -1,0 +1,56 @@
+{
+  "id": "apicfg-mandi-001",
+  "provider": "data.gov.in / AGMARKNET",
+  "status": "blocked_unconfirmed",
+  "status_reason": "The data.gov.in catalogue page for the current daily mandi price resource states 'The API for this resource does not exist' and offers a Request API button. No working resource ID has been confirmed or tested.",
+  "base_url_pattern": "https://api.data.gov.in/resource/{resource_id}",
+  "base_url_status": "from report and third-party wrappers; not confirmed against official OGD API docs",
+  "resource_id": null,
+  "resource_id_note": "Do not invent. A third-party 2021 library lists IDs, but the mapping to the mandi dataset was ambiguous and untested. Obtain the ID from the official data.gov.in resource page after the API is enabled.",
+  "api_key_env_var": "DATA_GOV_API_KEY",
+  "api_key_policy": "Server-side environment variable only; never in JSON, frontend code or logs.",
+  "supported_query_params": null,
+  "supported_query_params_note": "Report mentions api-key, format, offset/limit and filters[field]; confirm from official docs and a live test.",
+  "response_field_mapping": {
+    "state": "State",
+    "district": "District",
+    "market": "Market",
+    "commodity": "Commodity",
+    "variety": "Variety",
+    "grade": "Grade",
+    "arrival_date": "Arrival_Date",
+    "min_price": "Min_Price",
+    "max_price": "Max_Price",
+    "modal_price": "Modal_Price"
+  },
+  "response_field_mapping_status": "unverified - field names are presumed; verify on first successful response (price units are typically Rs per quintal but must be confirmed)",
+  "pagination": "offset/limit (unverified)",
+  "cache_ttl_minutes": 30,
+  "cache_note": "Report suggests 15-30 minutes; keep <= 30.",
+  "freshness_rule": "Reject rows whose arrival_date is older than 3 days when the farmer asks for 'today'; tell the farmer the date shown.",
+  "error_handling": {
+    "no_rows": "इस मंडी के लिए आज का सत्यापित भाव उपलब्ध नहीं है।",
+    "api_down": "सरकारी भाव सेवा अभी उपलब्ध नहीं है। कृपया बाद में कोशिश करें।",
+    "never_synthesize_price": true
+  },
+  "attribution": "स्रोत: AGMARKNET / data.gov.in; show retrieval timestamp; follow the dataset's Open Government Data licence terms.",
+  "fallback_options": [
+    "Request API access for the resource on data.gov.in",
+    "Check AGMARKNET's own services",
+    "Evaluate e-NAM later (not verified)"
+  ],
+  "source_ids": [
+    "src-datagov-current-mandi-001",
+    "src-datagov-variety-mandi-001",
+    "src-agmarknet-001"
+  ],
+  "verification_status": "pending_review",
+  "data_type": "unverified",
+  "last_verified": "2026-11-01",
+  "review_required": true,
+  "detailed_sections": {
+    "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+    "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+  },
+  "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+}

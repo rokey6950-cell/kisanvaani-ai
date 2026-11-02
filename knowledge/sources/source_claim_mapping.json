@@ -1,0 +1,330 @@
+[
+  {
+    "id": "claim-001",
+    "claim": "Haryana normal wheat sowing window is 25 Oct-15 Nov (HAU)",
+    "source_ids": [
+      "src-hau-pop-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": "Full PDF unopened; date unknown",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-002",
+    "claim": "HP wheat sowing windows by hill zone, seed rate, spacing and depth",
+    "source_ids": [
+      "src-hp-agri-wheat-001"
+    ],
+    "status": "supported_fetched",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-003",
+    "claim": "Current daily mandi price dataset has no API on data.gov.in",
+    "source_ids": [
+      "src-datagov-current-mandi-001"
+    ],
+    "status": "supported_fetched",
+    "note": "Contradicts the report's API-route claim",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-004",
+    "claim": "data.gov.in resource API route is api.data.gov.in/resource/<id> with api-key",
+    "source_ids": [],
+    "status": "unresolved",
+    "note": "Report cited unrelated haryana.gov.in page; official OGD docs not yet read",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-005",
+    "claim": "A working mandi resource ID exists",
+    "source_ids": [],
+    "status": "unresolved",
+    "note": "None confirmed",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-006",
+    "claim": "IMD APIs are free for non-commercial use only",
+    "source_ids": [
+      "src-imd-rti-api-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-007",
+    "claim": "IMD requires contacting its nodal officer to use APIs under IMD terms",
+    "source_ids": [
+      "src-imd-api-doc-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-008",
+    "claim": "IMD API platform needs registration/login",
+    "source_ids": [
+      "src-imd-api-portal-001"
+    ],
+    "status": "supported_fetched",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-009",
+    "claim": "IMD has a dedicated Agromet Advisory API",
+    "source_ids": [
+      "src-imd-api-reference-001"
+    ],
+    "status": "unresolved",
+    "note": "api_reference.html not fetchable in this pass; bulletins confirmed, API not",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-010",
+    "claim": "Mausam SANKALP block-level parameters (rain, Tmax/Tmin, RH, wind)",
+    "source_ids": [
+      "src-imd-rti-api-001"
+    ],
+    "status": "unresolved",
+    "note": "Cited PDF excerpt does not show this",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-011",
+    "claim": "PM-KISAN Rs 6,000/yr in 3 instalments, operational 1 Dec 2018",
+    "source_ids": [
+      "src-pmkisan-scheme-doc-001",
+      "src-pmkisan-faq-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-012",
+    "claim": "PM-KISAN extended to all landholding farmers (31 May 2019)",
+    "source_ids": [
+      "src-pib-pmkisan-2020-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-013",
+    "claim": "PM-KISAN helpline 155261 / 011-24300606",
+    "source_ids": [
+      "src-pmkisan-portal-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": "Cached page; recheck live",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-014",
+    "claim": "PM-KISAN family = husband, wife and minor children",
+    "source_ids": [],
+    "status": "unresolved",
+    "note": "Not re-confirmed",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-015",
+    "claim": "PMFBY helpline 14447",
+    "source_ids": [
+      "src-dot-14447-001",
+      "src-lokSabha-krph-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": null,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-016",
+    "claim": "PMFBY WhatsApp chatbot 7065514447",
+    "source_ids": [
+      "src-udalguri-pmfby-001"
+    ],
+    "status": "supported_search_excerpt",
+    "note": "District circular; recheck on pmfby.gov.in",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-017",
+    "claim": "Meghalaya wheat package values apply to Northern India",
+    "source_ids": [
+      "src-meg-wheat-001"
+    ],
+    "status": "rejected",
+    "note": "Different state; values excluded",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-018",
+    "claim": "Wheat first irrigation ~35 days after sowing (ICAR-IISWC)",
+    "source_ids": [
+      "src-iiswc-001"
+    ],
+    "status": "unresolved",
+    "note": "Conflicts with CRI 20-25 DAS on other sites; withheld",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-019",
+    "claim": "Wheat variety suitability (HD 2967, DBW 187, HD 3226, HDCSW 18, UP lists)",
+    "source_ids": [
+      "src-icar-landmark-001",
+      "src-epubs-up-wheat-001"
+    ],
+    "status": "unresolved",
+    "note": "Source pages not opened",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-020",
+    "claim": "Gnani supports Haryanvi",
+    "source_ids": [
+      "src-gnani-livekit-001"
+    ],
+    "status": "not_supported",
+    "note": "No Haryanvi code found in pages fetched; treat as accent testing",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-021",
+    "claim": "Gnani Prisma/Timbre v2.5 support ten Indian languages",
+    "source_ids": [
+      "src-gnani-livekit-001",
+      "src-gnani-hf-001"
+    ],
+    "status": "supported",
+    "note": "Newer v3.0 models also exist",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  },
+  {
+    "id": "claim-022",
+    "claim": "WH 1309 late-sown variety (1-20 Dec, 125 kg/ha)",
+    "source_ids": [
+      "src-greenalerts-wh1309-001"
+    ],
+    "status": "supported_secondary_only",
+    "note": "News report only",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices.",
+    "verification_status": "verified"
+  }
+]

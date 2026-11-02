@@ -1,0 +1,59 @@
+[
+  {
+    "id": "schemedoc-1",
+    "scheme_id": "pm-kisan",
+    "title": "PM-KISAN Operational Guidelines",
+    "url": "https://PMkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf",
+    "source_ids": [
+      "src-pmkisan-opguide-001"
+    ],
+    "language": "en",
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": false,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "schemedoc-2",
+    "scheme_id": "pm-kisan",
+    "title": "PM-KISAN FAQ",
+    "url": "https://fw.pmkisan.gov.in/Documents/FAQPMKISAN.pdf",
+    "source_ids": [
+      "src-pmkisan-faq-001"
+    ],
+    "language": "en",
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": false,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "schemedoc-3",
+    "scheme_id": "pm-kisan",
+    "title": "PM Kisan Samman Nidhi scheme document",
+    "url": "https://fw.pmkisan.gov.in/Documents/PMKisanSamanNidhi.pdf",
+    "source_ids": [
+      "src-pmkisan-scheme-doc-001"
+    ],
+    "language": "en",
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": false,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

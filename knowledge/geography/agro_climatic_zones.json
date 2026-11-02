@@ -1,0 +1,94 @@
+[
+  {
+    "id": "zone-wheat-nwpz",
+    "zone_id": "nwpz",
+    "name": {
+      "en": "North Western Plains Zone",
+      "hi": null
+    },
+    "scheme": "ICAR wheat mega-zones as named in the report",
+    "states": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Zone names come from the report's reading of ICAR material (not opened). State-to-zone mapping is not asserted.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "zone-wheat-nepz",
+    "zone_id": "nepz",
+    "name": {
+      "en": "North Eastern Plains Zone",
+      "hi": null
+    },
+    "scheme": "ICAR wheat mega-zones as named in the report",
+    "states": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Zone names come from the report's reading of ICAR material (not opened). State-to-zone mapping is not asserted.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "zone-wheat-central",
+    "zone_id": "central",
+    "name": {
+      "en": "Central Zone",
+      "hi": null
+    },
+    "scheme": "ICAR wheat mega-zones as named in the report",
+    "states": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Zone names come from the report's reading of ICAR material (not opened). State-to-zone mapping is not asserted.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "zone-wheat-nhz",
+    "zone_id": "nhz",
+    "name": {
+      "en": "Northern Hill Zone",
+      "hi": null
+    },
+    "scheme": "ICAR wheat mega-zones as named in the report",
+    "states": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Zone names come from the report's reading of ICAR material (not opened). State-to-zone mapping is not asserted.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

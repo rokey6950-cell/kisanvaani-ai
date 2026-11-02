@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ipm-comprehensive-001",
+    "category": "integrated_pest_management",
+    "title": {
+      "en": "Comprehensive Integrated Pest Management (IPM) Framework",
+      "hi": "व्यापक एकीकृत कीट प्रबंधन (IPM) रूपरेखा"
+    },
+    "core_principles": {
+      "hi": "एकीकृत कीट प्रबंधन (IPM) पर्यावरण अनुकूल दृष्टिकोण है जो कीटों को आर्थिक क्षति स्तर (ETL) से नीचे रखने के लिए सांस्कृतिक, यांत्रिक, जैविक और विवेकपूर्ण रासायनिक नियंत्रण का संयोजन करता है।",
+      "en": "IPM is an ecosystem-based strategy focusing on long-term prevention of pests through a combination of cultural, mechanical, biological, and judicious chemical methods."
+    },
+    "cultural_practices": {
+      "hi": "गहरी ग्रीष्मकालीन जुताई, फसल चक्र अपनाना, रोगमुक्त एवं प्रमाणित बीजों का चयन, और संतुलित उर्वरक (विशेषकर नत्रजन का सीमित प्रयोग) करना।",
+      "en": "Deep summer ploughing to expose pupae, crop rotation with non-host crops, selection of certified disease-resistant seeds, and balanced nitrogen fertilization."
+    },
+    "mechanical_controls": {
+      "hi": "हाथ से कीटों व अंडों को एकत्र कर नष्ट करना, पीले रंग के चिपचिपे ट्रैप (Yellow sticky traps) और फेरोमोन ट्रैप का प्रयोग करना।",
+      "en": "Handpicking and destruction of egg masses, setting up yellow sticky traps (10-15/acre) and sex pheromone traps for pest monitoring."
+    },
+    "biological_control": {
+      "hi": "मित्र कीटों (जैसे लेडीबर्ड बीटल, क्राइसोपा) का संरक्षण करना और ट्राइकोग्रामा (Trichogramma) जैसे परजीवियों का उपयोग करना।",
+      "en": "Conservation of natural predators (ladybird beetles, spiders) and release of bio-agents like Trichogramma egg parasitoids."
+    },
+    "safety_helpline": {
+      "hi": "रासायनिक कीटनाशकों के अंधाधुंध प्रयोग से बचें। किसी भी जटिल रोग या कीट की पहचान और सटीक नियंत्रण के लिए अपने नजदीकी कृषि विज्ञान केंद्र (KVK) या किसान कॉल सेंटर टोल-फ्री नंबर 1800-180-1551 पर संपर्क करें।",
+      "en": "Avoid indiscriminate chemical use. For accurate pest identification and precise recommendations, consult your nearest Krishi Vigyan Kendra (KVK) or Kisan Helpline 1800-180-1551."
+    }
+  }
+]

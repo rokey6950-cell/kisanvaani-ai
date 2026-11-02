@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seedrec-wheat-comprehensive-001",
+    "crop_id": "wheat",
+    "state": "Haryana & North India",
+    "crop_record_id": "crop-wheat-haryana-sowing-001",
+    "seed_rate": {
+      "timely_sowing": "40 kg per acre (100 kg/ha)",
+      "late_sowing": "50 kg per acre (125 kg/ha)"
+    },
+    "seed_depth": "4 to 5 cm in moist soil zone",
+    "row_spacing": "20 cm to 22.5 cm between rows",
+    "seed_treatment_protocol": {
+      "hi": "फफूंद जनित रोगों से बचाव के लिए कार्बेन्डाजिम 50% WP (2 ग्राम प्रति किलो बीज) या ट्राइकोडर्मा (4 ग्राम प्रति किलो बीज) से उपचारित करें। दीमक प्रभावित क्षेत्रों में क्लोरपाइरीफोस से उपचार करें।",
+      "en": "Treat seeds with Carbendazim 50% WP @ 2g per kg or Trichoderma @ 4g per kg to protect against seed-borne and soil-borne fungal pathogens."
+    },
+    "critical_stages_irrigation": {
+      "hi": "1. सीआरआई अवस्था (बुवाई के 20-25 दिन बाद) - सबसे महत्वपूर्ण\n2. कल्ले निकलते समय (40-45 दिन)\n3. गाँठ बनते समय (60-65 दिन)\n4. बालियाँ निकलते समय (80-85 दिन)\n5. दाना भरते समय (100-105 दिन)",
+      "en": "1. CRI stage (20-25 DAS) - Most critical\n2. Tillering (40-45 DAS)\n3. Jointing (60-65 DAS)\n4. Heading (80-85 DAS)\n5. Grain filling (100-105 DAS)"
+    },
+    "applies_only_to": "Haryana, Punjab, and North-Western Plain Zone",
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-hau-pop-001"
+    ],
+    "detailed_sections": {
+      "complete_guidelines": "Exhaustive seed rate, treatment, depth, spacing, and irrigation schedules for wheat."
+    },
+    "full_text": "Comprehensive seed rate, treatment, depth, spacing and irrigation schedule for wheat cultivation."
+  }
+]

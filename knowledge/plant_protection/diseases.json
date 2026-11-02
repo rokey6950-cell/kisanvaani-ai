@@ -1,0 +1,77 @@
+[
+  {
+    "id": "disease-wheat-yellow-rust-001",
+    "category": "plant_protection_disease",
+    "crop_id": "wheat",
+    "disease_name": {
+      "en": "Yellow Rust (Stripe Rust)",
+      "hi": "पीला रतुआ (स्ट्राइप रस्ट)"
+    },
+    "pathogen": {
+      "en": "Puccinia striiformis",
+      "hi": "पुकिसिनिया स्ट्राइफॉर्मिस"
+    },
+    "favorable_conditions": {
+      "hi": "कम तापमान (10-15°C) और उच्च आर्द्रता या बारिश।",
+      "en": "Low temperature (10-15°C) and high relative humidity or winter rains."
+    },
+    "symptoms": {
+      "hi": "पत्तियों की ऊपरी सतह पर पीले रंग की धारियाँ (धब्बे) कतार में बनना, जिन पर पीले चूर्ण (बीजाणु) पाए जाते हैं। अत्यधिक संक्रमण से पत्तियाँ सूख जाती हैं और दाने सिकुड़ जाते हैं।",
+      "en": "Bright yellow pustules forming stripes along the leaf veins. Severe infection leads to premature leaf drying and shriveled grains."
+    },
+    "management": {
+      "hi": "प्रतिरोधी किस्में (जैसे HD 3086, DBW 187) उगाएं। लक्षण दिखते ही प्रोपコナज़ोल (Propiconazole 25 EC) 200 मिली प्रति एकड़ 200 लीटर पानी में मिलाकर छिड़काव करें।",
+      "en": "Grow resistant varieties. Spray Propiconazole 25 EC @ 200 ml in 200 liters of water per acre at the appearance of initial symptoms."
+    }
+  },
+  {
+    "id": "disease-rice-blast-001",
+    "category": "plant_protection_disease",
+    "crop_id": "rice",
+    "disease_name": {
+      "en": "Rice Blast",
+      "hi": "धान का ब्लास्ट (पाइरिकुलरिया) रोग"
+    },
+    "pathogen": {
+      "en": "Pyricularia oryzae",
+      "hi": "पाइरिकुलरिया ओरिजी"
+    },
+    "favorable_conditions": {
+      "hi": "बादल छाए रहना, अधिक आर्द्रता, और रात का तापमान कम होना।",
+      "en": "Overcast skies, high relative humidity, intermittent drizzle, and cooler night temperatures."
+    },
+    "symptoms": {
+      "hi": "पत्तियों पर आँख के आकार (spindle-shaped) के धब्बे जिनके बीच का हिस्सा भूरा-सफेद होता है। गर्दन पर संक्रमण होने पर बाली टूट जाती है जिसे 'नेक ब्लास्ट' कहते हैं।",
+      "en": "Spindle-shaped lesions on leaves with gray centers and brown margins. Node/neck infection causes the panicle to break off (neck blast)."
+    },
+    "management": {
+      "hi": "बीज उपचार कार्बेन्डाजिम से करें। लक्षण दिखते ही ट्राइसाइक्लाजोल (Tricyclazole 75% WP) 0.6 ग्राम प्रति लीटर पानी में घोलकर छिड़काव करें।",
+      "en": "Treat seeds with carbendazim. Spray Tricyclazole 75% WP @ 0.6g per liter of water at first sign of infection."
+    }
+  },
+  {
+    "id": "disease-cotton-root-rot-001",
+    "category": "plant_protection_disease",
+    "crop_id": "cotton",
+    "disease_name": {
+      "en": "Cotton Root Rot",
+      "hi": "कपास का जड़ गलन (रूट रॉट) रोग"
+    },
+    "pathogen": {
+      "en": "Rhizoctonia bataticola",
+      "hi": "राइजोक्टोनिया बटाटिकोला"
+    },
+    "favorable_conditions": {
+      "hi": "उच्च तापमान (30-35°C) और मिट्टी में नमी की कमी के बाद अचानक सिंचाई।",
+      "en": "High soil temperature (30-35°C) and alternating dry and wet soil conditions."
+    },
+    "symptoms": {
+      "hi": "पौधे अचानक मुरझा जाते हैं और पत्तियाँ पीली पड़कर गिर जाती हैं। जड़ें सड़ जाती हैं और छाल आसानी से उतर जाती है।",
+      "en": "Sudden wilting of plants, yellowing and shedding of leaves. Roots become dark and bark shreds easily."
+    },
+    "management": {
+      "hi": "गहरी जुताई करें, फसल चक्र अपनाएं और ट्राइकोडर्मा (Trichoderma viride) का गोबर की खाद के साथ प्रयोग करें।",
+      "en": "Deep summer ploughing, crop rotation with legumes, and soil application of Trichoderma mixed with FYM."
+    }
+  }
+]

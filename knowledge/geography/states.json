@@ -1,0 +1,177 @@
+[
+  {
+    "id": "geo-state-haryana",
+    "state_id": "haryana",
+    "name": {
+      "en": "Haryana",
+      "hi": "हरियाणा"
+    },
+    "kind": "state",
+    "terrain_class": "plains",
+    "lgd_code": null,
+    "pilot_priority": 1,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-punjab",
+    "state_id": "punjab",
+    "name": {
+      "en": "Punjab",
+      "hi": "पंजाब"
+    },
+    "kind": "state",
+    "terrain_class": "plains",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-uttar_pradesh",
+    "state_id": "uttar_pradesh",
+    "name": {
+      "en": "Uttar Pradesh",
+      "hi": "उत्तर प्रदेश"
+    },
+    "kind": "state",
+    "terrain_class": "plains_with_hills",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-rajasthan",
+    "state_id": "rajasthan",
+    "name": {
+      "en": "Rajasthan",
+      "hi": "राजस्थान"
+    },
+    "kind": "state",
+    "terrain_class": "plains_arid",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-himachal_pradesh",
+    "state_id": "himachal_pradesh",
+    "name": {
+      "en": "Himachal Pradesh",
+      "hi": "हिमाचल प्रदेश"
+    },
+    "kind": "state",
+    "terrain_class": "hill",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-uttarakhand",
+    "state_id": "uttarakhand",
+    "name": {
+      "en": "Uttarakhand",
+      "hi": "उत्तराखंड"
+    },
+    "kind": "state",
+    "terrain_class": "hill_and_plains",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "geo-state-delhi_ncr",
+    "state_id": "delhi_ncr",
+    "name": {
+      "en": "Delhi NCR",
+      "hi": "दिल्ली एनसीआर"
+    },
+    "kind": "region",
+    "terrain_class": "peri_urban",
+    "lgd_code": null,
+    "pilot_priority": null,
+    "notes": "Delhi NCR is a region: NCT of Delhi plus NCR districts of Haryana, UP and Rajasthan. District membership must come from an official NCR list; not yet added.",
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

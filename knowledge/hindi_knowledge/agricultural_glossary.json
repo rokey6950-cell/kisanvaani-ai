@@ -1,0 +1,192 @@
+[
+  {
+    "id": "gloss-sowing",
+    "term": {
+      "hi": "बुवाई",
+      "en": "Sowing"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-irrigation",
+    "term": {
+      "hi": "सिंचाई",
+      "en": "Irrigation"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-mandi",
+    "term": {
+      "hi": "मंडी",
+      "en": "Wholesale market"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-modal_price",
+    "term": {
+      "hi": "मॉडल भाव",
+      "en": "Modal price (most common traded price)"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-seed_rate",
+    "term": {
+      "hi": "बीज दर",
+      "en": "Seed rate"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-rabi",
+    "term": {
+      "hi": "रबी",
+      "en": "Rabi (winter-sown season)"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-kharif",
+    "term": {
+      "hi": "खरीफ",
+      "en": "Kharif (monsoon-sown season)"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-kvk",
+    "term": {
+      "hi": "कृषि विज्ञान केंद्र (केवीके)",
+      "en": "Krishi Vigyan Kendra (district farm science centre)"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-soil_test",
+    "term": {
+      "hi": "मिट्टी की जांच",
+      "en": "Soil test"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "gloss-fertilizer",
+    "term": {
+      "hi": "खाद / उर्वरक",
+      "en": "Fertiliser"
+    },
+    "kind": "glossary",
+    "source_ids": [],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Plain-language vocabulary for the voice assistant; no agronomic claim.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

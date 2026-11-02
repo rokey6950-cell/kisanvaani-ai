@@ -1,0 +1,30 @@
+[
+  {
+    "id": "chem-guidelines-001",
+    "category": "verified_chemical_safety",
+    "title": {
+      "en": "Safe Pesticide Handling and KVK Advisory Protocol",
+      "hi": "सुरक्षित कीटनाशक उपयोग एवं KVK परामर्श प्रोटोकॉल"
+    },
+    "guidelines": [
+      {
+        "rule_1": {
+          "hi": "कीटनाशक खरीदते समय हमेशा पक्का बिल लें और सीलबंद पैकेट पर CIB&RC (Central Insecticides Board) पंजीकरण संख्या की जाँच करें।",
+          "en": "Always obtain a valid cash memo and check CIB&RC registration number on sealed pesticide containers."
+        }
+      },
+      {
+        "rule_2": {
+          "hi": "छिड़काव के समय मुंह पर मास्क, हाथों में दस्ताने और पूरी बांह के कपड़े पहनें। हवा की विपरीत दिशा में छिड़काव न करें।",
+          "en": "Wear protective gear (mask, gloves, full sleeves) during spraying. Never spray against wind direction."
+        }
+      },
+      {
+        "rule_3": {
+          "hi": "अज्ञात या अप्रमाणित रसायनों के मिश्रण का प्रयोग कदापि न करें। किसी भी कीट या रोग के लक्षण दिखने पर स्थानीय कृषि विज्ञान केंद्र (KVK) या टोल-फ्री किसान हेल्पलाइन (1800-180-1551) से अवश्य मार्गदर्शन लें।",
+          "en": "Never use unverified chemical mixtures. For any pest or disease symptom, always seek guidance from local Krishi Vigyan Kendra (KVK) or toll-free Kisan Helpline 1800-180-1551."
+        }
+      }
+    ]
+  }
+]

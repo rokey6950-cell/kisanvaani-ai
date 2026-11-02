@@ -1,0 +1,681 @@
+[
+  {
+    "source_id": "src-report-kisanvaani-001",
+    "organization": "Perplexity (user-supplied research report)",
+    "source_type": "secondary_report",
+    "title": "KisanVaani AI - Deep Research Report",
+    "url": null,
+    "document_type": "report",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Input report. Its statements are leads, not verified facts. Several of its citations do not support the adjacent claims (see verification_report.json)."
+  },
+  {
+    "source_id": "src-hau-pop-001",
+    "organization": "CCS Haryana Agricultural University",
+    "source_type": "official_university",
+    "title": "Recommendations in Package of Practices (HAU)",
+    "url": "https://hau.ac.in/public/pages-pdf/1543584203.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_university",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Normal wheat sowing time for Haryana recommended as 25 Oct-15 Nov instead of 1-25 Nov"
+    ],
+    "geographic_scope": [
+      "Haryana"
+    ],
+    "notes": "Existence and the sowing-time sentence confirmed from a search excerpt; the full PDF could not be opened. Publication date is not printed in the excerpt (the numeric file name suggests a ~2018 upload, which is NOT a verified date), so the advice may predate newer early-sowing varieties. The same excerpt mentions seed treatment for loose smut with a named fungicide; it was NOT used because registration, dose-stage and region checks were not possible."
+  },
+  {
+    "source_id": "src-hp-agri-wheat-001",
+    "organization": "Department of Agriculture, Himachal Pradesh",
+    "source_type": "official_government",
+    "title": "Wheat (Tillage & Sowing) | HP Agriculture",
+    "url": "https://agriculture.hp.gov.in/en/tillage-sowing-wheat/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "fetched_full",
+    "claims_supported": [
+      "HP wheat land preparation",
+      "HP timely/late sowing windows by hill zone",
+      "HP seed rate",
+      "HP row spacing and depth"
+    ],
+    "geographic_scope": [
+      "Himachal Pradesh"
+    ],
+    "notes": "Fetched in full. Page carries no publication date."
+  },
+  {
+    "source_id": "src-datagov-current-mandi-001",
+    "organization": "Open Government Data (OGD) Platform India",
+    "source_type": "official_government",
+    "title": "Current Daily Price of Various Commodities from Various Markets (Mandi)",
+    "url": "https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "fetched_full",
+    "claims_supported": [
+      "Dataset generated through AGMARKNET; daily granularity; wholesale min/max/modal prices",
+      "Catalogue page states: the API for this resource does not exist (Request API button)"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "CONFLICTS with the report, which presented this dataset as the API route. Catalogue dates shown: 23/05/2013 and 23/04/2025. No resource ID is displayed on the page."
+  },
+  {
+    "source_id": "src-datagov-variety-mandi-001",
+    "organization": "Open Government Data (OGD) Platform India",
+    "source_type": "official_government",
+    "title": "Variety-wise Daily Market Prices Data of Commodity",
+    "url": "https://www.data.gov.in/resource/variety-wise-daily-market-prices-data-commodity",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Dataset exists; wholesale max/min/modal prices daily"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Only the description excerpt was seen. The report's claim that this resource has no API was not directly re-confirmed here (the identical statement WAS confirmed for the current-price resource)."
+  },
+  {
+    "source_id": "src-imd-rti-api-001",
+    "organization": "India Meteorological Department (RTI reply, file DGM-HQ-33010/1/2025-RTI-HQ)",
+    "source_type": "official_government",
+    "title": "IMD RTI reply on API access",
+    "url": "https://internal.imd.gov.in/section/rti/rticases/20260112_rti_211.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "IMD provides APIs without charge for non-commercial use only"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Official statement dated from an RTI of 27/08/2025 (file name suggests Jan 2026 posting). The report cited this PDF for block-level SANKALP parameters; the excerpt seen does not contain that, so that claim stays unverified."
+  },
+  {
+    "source_id": "src-imd-api-doc-001",
+    "organization": "India Meteorological Department",
+    "source_type": "official_government",
+    "title": "IMD API doc (warnings through APIs and social media)",
+    "url": "https://mausam.imd.gov.in/Forecast/marquee_data/API_doc.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Organisations wishing to use IMD APIs must follow IMD terms and contact the named IMD nodal officer"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Contact details are in the PDF; they are deliberately not copied into this knowledge base."
+  },
+  {
+    "source_id": "src-imd-api-portal-001",
+    "organization": "India Meteorological Department",
+    "source_type": "official_government",
+    "title": "IMD API Management Platform",
+    "url": "https://api.imd.gov.in/public/index.php",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "fetched_full",
+    "claims_supported": [
+      "Portal requires account registration and login",
+      "Home page lists city forecast, nowcast, rainfall, marine bulletins and warning services; access described as secure JWT/key based"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "api_reference.html was linked but could not be fetched in this pass, so individual endpoints, parameters and the report's 'Agromet Advisory API' claim are NOT verified."
+  },
+  {
+    "source_id": "src-imd-agromet-001",
+    "organization": "India Meteorological Department",
+    "source_type": "official_government",
+    "title": "IMD Agromet Advisory Services pages (district/state/national bulletins, KALP, SANKALP)",
+    "url": "https://mausam.imd.gov.in/responsive/agromet_adv_ser_national_past_en.php",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "IMD publishes district, state and national agromet bulletins; KALP and SANKALP platforms are listed"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Existence of bulletin products confirmed. This does not prove a programmatic agromet API exists."
+  },
+  {
+    "source_id": "src-pmkisan-portal-001",
+    "organization": "Department of Agriculture and Farmers Welfare",
+    "source_type": "official_government",
+    "title": "PM-KISAN portal home page",
+    "url": "https://pmkisan.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Helpline 155261 / 011-24300606 displayed",
+      "eKYC mandatory for registered farmers; OTP eKYC on portal, biometric at CSC"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt came from a cached copy that mentions the 16th instalment (Feb 2024); helpline must be re-checked on the live page."
+  },
+  {
+    "source_id": "src-pmkisan-scheme-doc-001",
+    "organization": "Department of Agriculture and Farmers Welfare",
+    "source_type": "official_government",
+    "title": "PM Kisan Samman Nidhi scheme document",
+    "url": "https://fw.pmkisan.gov.in/Documents/PMKisanSamanNidhi.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Rs 6,000 per year in three equal instalments of Rs 2,000 every four months",
+      "Central Sector scheme with 100% GoI funding",
+      "Exclusion categories exist"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt is from the original 2018-19 scheme document; scope was later widened to all landholding families (see PIB source)."
+  },
+  {
+    "source_id": "src-pmkisan-faq-001",
+    "organization": "Department of Agriculture and Farmers Welfare",
+    "source_type": "official_government",
+    "title": "PM-KISAN FAQ",
+    "url": "https://fw.pmkisan.gov.in/Documents/FAQPMKISAN.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Three equal instalments of Rs 2,000 every 4 months; first instalment w.e.f. 01.12.2018"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only."
+  },
+  {
+    "source_id": "src-pmkisan-opguide-001",
+    "organization": "Department of Agriculture and Farmers Welfare",
+    "source_type": "official_government",
+    "title": "PM-KISAN Operational Guidelines",
+    "url": "https://PMkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Operational guidelines exist; first instalment period 01.12.2018-31.03.2019"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only. Read the full PDF before writing detailed eligibility."
+  },
+  {
+    "source_id": "src-pib-pmkisan-001",
+    "organization": "Press Information Bureau / DA&FW",
+    "source_type": "official_government",
+    "title": "PM-KISAN FAQ document (PIB, Nov 2021)",
+    "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Documents/information needed for enrolment include name, age, gender, category and Aadhaar number",
+      "Farmers' Corner on portal shows status; grievance via district committee"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only; Aadhaar handling must stay on the official portal."
+  },
+  {
+    "source_id": "src-pib-pmkisan-2020-001",
+    "organization": "Press Information Bureau / DA&FW",
+    "source_type": "official_government",
+    "title": "PM-KISAN press conference deck, 24 Feb 2020",
+    "url": "https://static.pib.gov.in/WriteReadData/userfiles/Press%20conference_24-Feb-2020.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Scheme extended to all landholding farmers by Cabinet decision dated 31.5.2019"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only."
+  },
+  {
+    "source_id": "src-dot-14447-001",
+    "organization": "Department of Telecommunications",
+    "source_type": "official_government",
+    "title": "Allocation of short code 14447 to DA&FW as PMFBY helpline",
+    "url": "https://dotws.cdot.in/sites/default/files/short%20code%2014447%20to%20Deptt%20of%20Agriculture%20GOI.pdf?download=1",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Short code 14447 allocated to PMFBY helpline"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only."
+  },
+  {
+    "source_id": "src-lokSabha-krph-001",
+    "organization": "Parliament of India (Lok Sabha reply)",
+    "source_type": "official_government",
+    "title": "Parliamentary reply on Krishi Rakshak Portal and Helpline",
+    "url": "https://eparlib.sansad.in/bitstream/123456789/2985398/1/AU2508_gdhK8C.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Krishi Rakshak Portal and Helpline launched Jan 2024 with single toll-free number 14447"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only."
+  },
+  {
+    "source_id": "src-udalguri-pmfby-001",
+    "organization": "District Administration Udalguri, Assam (official circular)",
+    "source_type": "official_government",
+    "title": "Dissemination of helpline information for crop loss reporting under PMFBY",
+    "url": "https://udalguri.assam.gov.in/sites/default/files/public_utility/COs.pdf",
+    "document_type": "pdf",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_official",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Krishi Rakshak helpline 14447 and PMFBY WhatsApp chatbot 7065514447"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "A district-level official circular, not the pmfby.gov.in page the report cited. Re-check on pmfby.gov.in."
+  },
+  {
+    "source_id": "src-gnani-livekit-001",
+    "organization": "Gnani.ai (vendor documentation)",
+    "source_type": "vendor_documentation",
+    "title": "Gnani LiveKit plugin documentation",
+    "url": "https://docs.gnani.ai/livekit/introduction.md",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_other",
+    "evidence_level": "fetched_full",
+    "claims_supported": [
+      "Prisma v2.5 supports ten languages; Timbre v2.5 and v3.0 exist; timbre-v2.0 retired; Prisma v3.0 adds multi-language detection and codemix",
+      "Auth is via API key (env GNANI_API_KEY); no Haryanvi language code appeared in the pages fetched"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "The full per-language tables live on other docs pages that were not fetched. Haryanvi support is therefore UNCONFIRMED; treat as accent testing only."
+  },
+  {
+    "source_id": "src-gnani-hf-001",
+    "organization": "Gnani.ai (Hugging Face model card)",
+    "source_type": "vendor_documentation",
+    "title": "Gnani Prisma v2.5 / Timbre integration card",
+    "url": "https://huggingface.co/gnani-ai/gnani",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_other",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "Prisma v2.5 and Timbre support 10+ Indian languages; languages outside the supported ten are listed as unsupported"
+    ],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Excerpt only."
+  },
+  {
+    "source_id": "src-greenalerts-wh1309-001",
+    "organization": "GreenAlerts (news)",
+    "source_type": "news",
+    "title": "HAU unveils new heat-tolerant late-sown wheat variety WH 1309",
+    "url": "https://www.greenalerts.in/agriculture/hau-unveils-new-heat-tolerant-late-sown-wheat-variety-ready-in-125-days/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": "2026-11-01",
+    "verification_status": "verified_other",
+    "evidence_level": "search_excerpt",
+    "claims_supported": [
+      "News report: WH 1309 for late sowing, 1-20 Dec, 125 kg seed/ha"
+    ],
+    "geographic_scope": [
+      "Haryana"
+    ],
+    "notes": "Secondary news report. Use only as a lead; confirm on hau.ac.in before showing farmers."
+  },
+  {
+    "source_id": "src-icar-wheat-node2632-001",
+    "organization": "ICAR",
+    "source_type": "official_government",
+    "title": "ICAR wheat recommendations (node/2632)",
+    "url": "https://icar.org.in/en/node/2632",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Cited by the report; not opened."
+  },
+  {
+    "source_id": "src-icar-landmark-001",
+    "organization": "ICAR",
+    "source_type": "official_government",
+    "title": "ICAR landmark varieties",
+    "url": "https://icar.org.in/en/crop-science/landmark-varieties",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Cited for HD 2967, DBW 187, HD 3226, HDCSW 18; not opened, so variety suitability is unverified."
+  },
+  {
+    "source_id": "src-epubs-up-wheat-001",
+    "organization": "ICAR epubs (Journal of Wheat Research)",
+    "source_type": "official_university",
+    "title": "Western UP wheat variety article",
+    "url": "https://epubs.icar.org.in/index.php/JWR/article/download/100826/39807/260742",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "Uttar Pradesh"
+    ],
+    "notes": "Cited for UP variety lists; not opened."
+  },
+  {
+    "source_id": "src-iiswc-001",
+    "organization": "ICAR-IISWC",
+    "source_type": "official_government",
+    "title": "ICAR-IISWC new wheat varieties, Raipur block Dehradun",
+    "url": "https://www.icar.org.in/en/icar-iiswc-introduces-new-wheat-varieties-farmers-raipur-block-dehradun",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "Uttarakhand"
+    ],
+    "notes": "Cited for first irrigation ~35 days after sowing; not opened. Independent web results quote CRI at 20-25 DAS, so irrigation timing is CONFLICTING and withheld."
+  },
+  {
+    "source_id": "src-meg-wheat-001",
+    "organization": "Meghalaya Agriculture (megagriculture.gov.in)",
+    "source_type": "official_government",
+    "title": "Wheat package of practices (Meghalaya)",
+    "url": "https://megagriculture.gov.in/public/package_of_practice_wheat.aspx",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "Meghalaya"
+    ],
+    "notes": "Not opened. It is a Meghalaya package; its seed rate (100 kg/ha), depth (5-6 cm), spacing and urea/SSP/MOP doses are REJECTED for Northern India use."
+  },
+  {
+    "source_id": "src-pmfby-guidelines-001",
+    "organization": "Department of Agriculture and Farmers Welfare (PMFBY)",
+    "source_type": "official_government",
+    "title": "PMFBY guidelines page",
+    "url": "https://www.pmfby.gov.in/guidelines",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Report's cited page; not opened in this pass."
+  },
+  {
+    "source_id": "src-pmkisan-registration-001",
+    "organization": "DA&FW (PM-KISAN)",
+    "source_type": "official_government",
+    "title": "PM-KISAN registration form page",
+    "url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Cited for Aadhaar-authenticated registration; not opened."
+  },
+  {
+    "source_id": "src-agri-haryana-001",
+    "organization": "Haryana Agriculture & Farmers Welfare Department",
+    "source_type": "official_government",
+    "title": "Haryana Agriculture Department portal",
+    "url": "https://agri.haryana.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "Haryana"
+    ],
+    "notes": "Starting point only; no scheme or package page verified."
+  },
+  {
+    "source_id": "src-haryana-gov-unrelated-001",
+    "organization": "Haryana Government portal",
+    "source_type": "official_government",
+    "title": "haryana.gov.in pages cited for data.gov.in API route/auth and IMD capabilities",
+    "url": "https://www.haryana.gov.in/departments/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "Haryana"
+    ],
+    "notes": "Citation audit: the report cites haryana.gov.in pages for data.gov.in API route, API-key and IMD capability claims. These are unrelated sources and were not used."
+  },
+  {
+    "source_id": "src-agmarknet-001",
+    "organization": "AGMARKNET (DMI, Ministry of Agriculture)",
+    "source_type": "official_government",
+    "title": "AGMARKNET portal",
+    "url": "https://agmarknet.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened."
+  },
+  {
+    "source_id": "src-pmksy-001",
+    "organization": "PMKSY",
+    "source_type": "official_government",
+    "title": "PMKSY portal",
+    "url": "https://pmksy.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened."
+  },
+  {
+    "source_id": "src-soilhealth-001",
+    "organization": "DA&FW Soil Health Card",
+    "source_type": "official_government",
+    "title": "Soil Health Card portal",
+    "url": "https://soilhealth.dac.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened."
+  },
+  {
+    "source_id": "src-agrimachinery-001",
+    "organization": "DA&FW Agricultural Mechanization",
+    "source_type": "official_government",
+    "title": "Agri-machinery portal",
+    "url": "https://agrimachinery.nic.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened."
+  },
+  {
+    "source_id": "src-mkisan-001",
+    "organization": "mKisan",
+    "source_type": "official_government",
+    "title": "mKisan portal",
+    "url": "https://mkisan.gov.in/",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened."
+  },
+  {
+    "source_id": "src-ppqs-cibrc-001",
+    "organization": "PPQS / CIB&RC",
+    "source_type": "official_government",
+    "title": "CIB&RC registered pesticide information",
+    "url": "https://ppqs.gov.in/divisions/cib-rc",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Not opened; no pesticide data used."
+  },
+  {
+    "source_id": "src-imd-api-reference-001",
+    "organization": "India Meteorological Department",
+    "source_type": "official_government",
+    "title": "IMD API reference",
+    "url": "https://api.imd.gov.in/public/api_reference.html",
+    "document_type": "web_page",
+    "publication_date": null,
+    "last_verified": null,
+    "verification_status": "not_verified",
+    "evidence_level": "report_only",
+    "claims_supported": [],
+    "geographic_scope": [
+      "India"
+    ],
+    "notes": "Fetch was refused in this pass, so endpoint names/parameters are not verified."
+  }
+]

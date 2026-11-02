@@ -1,0 +1,52 @@
+{
+  "id": "apicfg-weather-001",
+  "provider": "India Meteorological Department (IMD)",
+  "status": "needs_credentials_and_permission",
+  "platform_url": "https://api.imd.gov.in/public/index.php",
+  "documented_base_url": null,
+  "base_url_note": "Platform confirmed; api_reference.html could not be fetched, so the endpoint base URL and paths are unverified.",
+  "endpoints": {
+    "city_forecast": null,
+    "location_forecast": null,
+    "rainfall_forecast": null,
+    "current_weather": null,
+    "nowcast_district": null,
+    "nowcast_station": null,
+    "agromet_advisory": null
+  },
+  "endpoints_note": "Report lists these capability names; confirm each from IMD's API reference after registering. The 'Agromet Advisory API' is unverified.",
+  "authentication": "Account registration and login on the IMD API platform; key/JWT based (per platform home page).",
+  "credential_env_var": "IMD_API_CREDENTIAL",
+  "credential_policy": "Server-side only; exact variable semantics depend on IMD's auth flow.",
+  "district_station_mapping": null,
+  "district_station_mapping_note": "IMD district/station IDs must be taken from IMD docs; not invented.",
+  "forecast_fields": null,
+  "advisory_fields": null,
+  "cache_ttl_minutes": 60,
+  "cache_note": "Suggested default; tune after reading IMD update frequency.",
+  "commercial_use_status": "NOT APPROVED. IMD states (RTI reply) that APIs are free for non-commercial use only; organisations must follow IMD terms and contact the IMD nodal officer named in the IMD API doc. Get written permission before any public/commercial launch.",
+  "source_timestamp_required": true,
+  "error_handling": {
+    "api_down": "मौसम की सरकारी जानकारी अभी उपलब्ध नहीं है। आप IMD का मौसम या मेघदूत ऐप देख सकते हैं।",
+    "never_synthesize_forecast": true
+  },
+  "fallback_options": [
+    "IMD agromet district bulletins (public web pages) with attribution, pending terms review"
+  ],
+  "source_ids": [
+    "src-imd-rti-api-001",
+    "src-imd-api-doc-001",
+    "src-imd-api-portal-001",
+    "src-imd-agromet-001",
+    "src-imd-api-reference-001"
+  ],
+  "verification_status": "pending_review",
+  "data_type": "unverified",
+  "last_verified": "2026-11-01",
+  "review_required": true,
+  "detailed_sections": {
+    "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+    "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+  },
+  "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+}

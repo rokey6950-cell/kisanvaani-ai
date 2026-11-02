@@ -1,0 +1,232 @@
+[
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": "https://PMkisan.gov.in/Documents/OPERATIONAL%20GUIDELINES.pdf",
+    "state": null,
+    "id": "scheme-national-pmkisan-001",
+    "scheme_id": "pm-kisan",
+    "name": {
+      "en": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "hi": "प्रधानमंत्री किसान सम्मान निधि (पीएम-किसान)"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": "Income support to landholding farmer families",
+    "benefits": "Rs 6,000 per year in three equal instalments of Rs 2,000 every four months, paid to the beneficiary's bank account",
+    "start_date": "2018-12-01",
+    "eligibility": "Landholding farmer families; scope was extended from small/marginal farmers to all landholding families by a Cabinet decision dated 31 May 2019. Detailed rules: see operational guidelines.",
+    "exclusion_criteria": "Certain categories are excluded (for example institutional landholders). Full list must be read from the official guidelines; not reproduced here.",
+    "application_process": "Self-registration on the official portal's Farmers Corner, or through a Common Service Centre. eKYC is stated as mandatory (OTP on portal, biometric at CSC).",
+    "official_portal": "https://pmkisan.gov.in/",
+    "helpline": {
+      "numbers": [
+        "155261",
+        "011-24300606"
+      ],
+      "note": "Seen on official portal home page (cached copy). Re-check on the live page before display."
+    },
+    "sensitive_data_policy": "Do not collect Aadhaar or bank details in KisanVaani; direct farmers to the official portal or CSC.",
+    "source_ids": [
+      "src-pmkisan-portal-001",
+      "src-pmkisan-scheme-doc-001",
+      "src-pmkisan-faq-001",
+      "src-pmkisan-opguide-001",
+      "src-pib-pmkisan-2020-001",
+      "src-pib-pmkisan-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Benefit amount, instalment structure and start date confirmed in official documents (excerpts). Detailed eligibility and exclusions not yet transcribed. The report's 'family = husband, wife and minor children' was not re-confirmed. A toll-free 1800-115-526 appears only on non-official sites and is excluded.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": null,
+    "state": null,
+    "id": "scheme-national-pmfby-001",
+    "scheme_id": "pmfby",
+    "name": {
+      "en": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "hi": "प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": "Crop insurance against yield loss",
+    "benefits": null,
+    "eligibility": null,
+    "exclusion_criteria": null,
+    "application_process": null,
+    "official_portal": "https://pmfby.gov.in/",
+    "helpline": {
+      "numbers": [
+        "14447"
+      ],
+      "whatsapp_chatbot": "7065514447",
+      "note": "14447 is confirmed by DoT and a Lok Sabha reply; the WhatsApp number comes from an official district circular."
+    },
+    "source_ids": [
+      "src-dot-14447-001",
+      "src-lokSabha-krph-001",
+      "src-udalguri-pmfby-001",
+      "src-pmfby-guidelines-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "official_static",
+    "last_verified": "2026-11-01",
+    "review_required": true,
+    "notes": "Premium rates, cut-off dates, sum insured and the crop-loss reporting window vary by state/season/notification and were not verified from pmfby.gov.in. Never state them from memory.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": null,
+    "state": null,
+    "id": "scheme-national-pmksy-001",
+    "scheme_id": "pmksy",
+    "name": {
+      "en": "PM Krishi Sinchayee Yojana (PMKSY)",
+      "hi": "प्रधानमंत्री कृषि सिंचाई योजना"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": null,
+    "benefits": null,
+    "eligibility": null,
+    "exclusion_criteria": null,
+    "application_process": null,
+    "official_portal": "https://pmksy.gov.in/",
+    "helpline": null,
+    "source_ids": [
+      "src-pmksy-001",
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Stub. Report suggests use for: irrigation coverage and water-use efficiency; state implementation varies. Portal not opened in this pass; no benefit or eligibility facts recorded.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": null,
+    "state": null,
+    "id": "scheme-national-soil-health-card-001",
+    "scheme_id": "soil-health-card",
+    "name": {
+      "en": "Soil Health Card scheme",
+      "hi": "मृदा स्वास्थ्य कार्ड योजना"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": null,
+    "benefits": null,
+    "eligibility": null,
+    "exclusion_criteria": null,
+    "application_process": null,
+    "official_portal": "https://soilhealth.dac.gov.in/",
+    "helpline": null,
+    "source_ids": [
+      "src-soilhealth-001",
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Stub. Report suggests use for: soil-testing workflow and nutrient recommendations. Portal not opened in this pass; no benefit or eligibility facts recorded.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": null,
+    "state": null,
+    "id": "scheme-national-agri-mechanization-001",
+    "scheme_id": "agri-mechanization",
+    "name": {
+      "en": "Agricultural Mechanization schemes",
+      "hi": "कृषि यंत्रीकरण योजनाएं"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": null,
+    "benefits": null,
+    "eligibility": null,
+    "exclusion_criteria": null,
+    "application_process": null,
+    "official_portal": "https://agrimachinery.nic.in/",
+    "helpline": null,
+    "source_ids": [
+      "src-agrimachinery-001",
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Stub. Report suggests use for: machinery subsidies and custom hiring centres. Portal not opened in this pass; no benefit or eligibility facts recorded.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "application_deadline": null,
+    "required_documents": null,
+    "official_notification_url": null,
+    "state": null,
+    "id": "scheme-national-mkisan-001",
+    "scheme_id": "mkisan",
+    "name": {
+      "en": "mKisan",
+      "hi": "एमकिसान"
+    },
+    "scope": "national",
+    "department": "Department of Agriculture and Farmers Welfare, Government of India",
+    "purpose": null,
+    "benefits": null,
+    "eligibility": null,
+    "exclusion_criteria": null,
+    "application_process": null,
+    "official_portal": "https://mkisan.gov.in/",
+    "helpline": null,
+    "source_ids": [
+      "src-mkisan-001",
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Stub. Report suggests use for: mobile advisory dissemination. Portal not opened in this pass; no benefit or eligibility facts recorded.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

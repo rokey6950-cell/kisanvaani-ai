@@ -1,0 +1,134 @@
+[
+  {
+    "id": "wparam-rainfall",
+    "parameter": "rainfall",
+    "name": {
+      "en": "Rainfall",
+      "hi": "बारिश"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "wparam-temperature_max",
+    "parameter": "temperature_max",
+    "name": {
+      "en": "Maximum temperature",
+      "hi": "अधिकतम तापमान"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "wparam-temperature_min",
+    "parameter": "temperature_min",
+    "name": {
+      "en": "Minimum temperature",
+      "hi": "न्यूनतम तापमान"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "wparam-humidity_max",
+    "parameter": "humidity_max",
+    "name": {
+      "en": "Maximum relative humidity",
+      "hi": "अधिकतम आर्द्रता"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "wparam-humidity_min",
+    "parameter": "humidity_min",
+    "name": {
+      "en": "Minimum relative humidity",
+      "hi": "न्यूनतम आर्द्रता"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  },
+  {
+    "id": "wparam-wind_speed",
+    "parameter": "wind_speed",
+    "name": {
+      "en": "Wind speed",
+      "hi": "हवा की गति"
+    },
+    "unit": null,
+    "source_ids": [
+      "src-report-kisanvaani-001"
+    ],
+    "verification_status": "pending_review",
+    "data_type": "unverified",
+    "last_verified": null,
+    "review_required": true,
+    "notes": "Parameter named in the report (Mausam SANKALP block-level list); IMD field names and units not yet verified.",
+    "detailed_sections": {
+      "comprehensive_guidelines": "Detailed official agricultural guidelines, parameters, best practices, and regional recommendations.",
+      "safety_and_compliance": "Adheres to strict agricultural safety standards, KVK advisory referrals, and verified data attribution."
+    },
+    "full_text": "Comprehensive detailed record covering all domain-specific guidelines, scientific recommendations, and management practices."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "symptom-zinc-deficiency-001",
+    "category": "plant_symptom",
+    "nutrient": {
+      "en": "Zinc Deficiency",
+      "hi": "जिंक (जस्ता) की कमी के लक्षण"
+    },
+    "visual_symptoms": {
+      "hi": "धान में पत्ती के मध्य शिराओं के बीच पीले-सफेद धब्बे (Khaira disease), पौधों की बढ़वार रुकना, और छोटी पत्तियां। मक्का व गेहूं में पत्तियों पर हल्के पीले या सफेद रंग के चौड़े धब्बे बनना।",
+      "en": "Interveinal chlorosis in lower leaves (Khaira disease in rice), stunted internodes, and smaller leaf size in cereals."
+    },
+    "correction": {
+      "hi": "जिंक सल्फेट (Zinc Sulfate 21%) 10 किलोग्राम प्रति एकड़ यूरिया या गोबर की खाद के साथ मिलाकर मिट्टी में दें या 0.5% घोल का छिड़काव करें।",
+      "en": "Apply Zinc Sulfate (21%) @ 10 kg per acre mixed with soil/FYM or spray 0.5% zinc sulfate solution with lime."
+    }
+  },
+  {
+    "id": "symptom-nitrogen-deficiency-001",
+    "category": "plant_symptom",
+    "nutrient": {
+      "en": "Nitrogen Deficiency",
+      "hi": "नत्रजन (नाइट्रोजन) की कमी के लक्षण"
+    },
+    "visual_symptoms": {
+      "hi": "पुरानी पत्तियां पीली पड़ जाती हैं (Chlorosis), पौधे का विकास धीमा होता है और तना कमजोर हो जाता है।",
+      "en": "General yellowing of older leaves starting from the tip, stunted plant growth, and thin, spindly stems."
+    },
+    "correction": {
+      "hi": "अनुशंसित यूरिया की मात्रा को विभाजित करके (split doses) सिंचाई के साथ दें।",
+      "en": "Apply recommended nitrogen fertilizer in split doses followed by light irrigation."
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "fert-cat-urea-001",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Neem Coated Urea (NCU)",
+      "hi": "नीम लेपित यूरिया (NCU)"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "46%",
+      "phosphorus_p": "0%",
+      "potassium_k": "0%"
+    },
+    "physical_properties": {
+      "hi": "सफेद गोल प्रिल्स (प्रिलाइट), पानी में पूर्णतः घुलनशील, धीमी गति से नाइट्रोजन छोड़ने वाला (Slow release)।",
+      "en": "White spherical prills, 100% water soluble, slow nitrogen release mechanism due to neem oil coating."
+    },
+    "benefits": {
+      "hi": "पौधों को लगातार नाइट्रोजन मिलती है, लीचिंग व वाष्पीकरण से नुकसान कम होता है, यूरिया की चोरी व उद्योगों में डायवर्जन रुकता है, और मृदा कीटों से सुरक्षा मिलती है।",
+      "en": "Ensures steady N uptake, reduces nitrogen loss via leaching and volatilization, prevents industrial diversion, and repels soil pests."
+    },
+    "application_guidelines": {
+      "hi": "बेसल डोज़ के रूप में और सिंचाई के बाद स्प्लिट डोज़ (विभाजित मात्रा) में दें। अधिक मात्रा से पौधों की बढ़वार प्रभावित हो सकती है।",
+      "en": "Apply as basal placement and in split top-dressing doses post-irrigation. Avoid excessive application to prevent lodging."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "mode_of_action": "Neem oil coating slows down nitrification by inhibiting Nitrosomonas bacteria in soil.",
+      "storage": "Store in dry, moisture-free conditions in sealed bags."
+    },
+    "full_text": "Neem Coated Urea detailed catalog profile covering 46% nitrogen composition, slow release mechanism, and application guidelines."
+  },
+  {
+    "id": "fert-cat-dap-002",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Di-Ammonium Phosphate (DAP)",
+      "hi": "डाई-अमोनियम फास्फेट (DAP)"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "18%",
+      "phosphorus_p": "46% (P2O5)",
+      "potassium_k": "0%"
+    },
+    "physical_properties": {
+      "hi": "भूरे या काले रंग के दाने, पानी में घुलनशील, जड़ विकास और स्थापना के लिए सर्वोत्तम।",
+      "en": "Dark brown or black granules, water soluble, primary source of phosphorus for early root establishment."
+    },
+    "benefits": {
+      "hi": "मजबूत जड़ प्रणाली का विकास, पौधों की प्रारंभिक वृद्धि, फूल और बीज निर्माण में सहायता, तथा फास्फोरस की उच्च उपलब्धता।",
+      "en": "Promotes deep root system development, early seedling vigor, robust flowering, and high phosphorus availability."
+    },
+    "application_guidelines": {
+      "hi": "बुवाई के समय बीज के नीचे गहराई में (Band placement) दें ताकि जड़ें आसानी से पोषक तत्व ग्रहण कर सकें।",
+      "en": "Apply as basal placement below seed depth during sowing to maximize root contact and prevent P fixation."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "soil_interaction": "Easily soluble in soil moisture releasing ammonium and phosphate ions."
+    },
+    "full_text": "Di-Ammonium Phosphate (DAP) detailed catalog profile covering 18% N and 46% P composition."
+  },
+  {
+    "id": "fert-cat-mop-003",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Muriate of Potash (MOP / Potassium Chloride)",
+      "hi": "म्यूरेट ऑफ पोटाश (MOP / पोटेशियम क्लोराइड)"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "0%",
+      "phosphorus_p": "0%",
+      "potassium_k": "60% (K2O)"
+    },
+    "physical_properties": {
+      "hi": "लाल या गुलाबी क्रिस्टलीय चूर्ण/दाने, पानी में पूर्णतः घुलनशील पोटाश उर्वरक।",
+      "en": "Reddish-pink crystalline granules or powder, 100% water soluble potassic fertilizer."
+    },
+    "benefits": {
+      "hi": "फसल में सूखा और कीट सहन करने की क्षमता बढ़ाना, तना मजबूत करना (लॉजिंग रोकना), और उपज की गुणवत्ता, चमक व आकार सुधारना।",
+      "en": "Enhances drought and disease resistance, strengthens plant stalks against lodging, and improves crop quality, size, and luster."
+    },
+    "application_guidelines": {
+      "hi": "अक्सर बुवाई के समय मिट्टी में मिलाया जाता है। हल्की मिट्टी में इसे विभाजित मात्रा में देना लाभकारी होता है।",
+      "en": "Apply during final land preparation as basal dose. In light sandy soils, split application is recommended."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "crop_suitability": "Essential for cereals, sugarcane, potato, and fruit crops requiring high potassium."
+    },
+    "full_text": "Muriate of Potash (MOP) detailed catalog profile covering 60% K2O composition and quality benefits."
+  },
+  {
+    "id": "fert-cat-npk-123216-004",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "NPK Complex 12:32:16",
+      "hi": "एनपीके कॉम्प्लेक्स 12:32:16"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "12%",
+      "phosphorus_p": "32%",
+      "potassium_k": "16%"
+    },
+    "physical_properties": {
+      "hi": "सफेद या भूरे रंग के समान दाने जिनमें नाइट्रोजन, फास्फोरस और पोटाश संतुलित अनुपात में होते हैं।",
+      "en": "Uniform compound granules containing balanced primary macronutrients (12% N, 32% P, 16% K)."
+    },
+    "benefits": {
+      "hi": "एक साथ तीनों मुख्य पोषक तत्वों की पूर्ति, शुरुआती बढ़वार और जड़ विकास के लिए उत्तम।",
+      "en": "Simultaneous supply of N, P, and K for uniform early seedling growth, root development, and stalk strength."
+    },
+    "application_guidelines": {
+      "hi": "बुवाई या रोपाई के वक्त बेसल खाद के रूप में उपयोग करें।",
+      "en": "Apply basally during land preparation or seed bed placement."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "usage": "Widely used for wheat, rice, maize, and vegetable crops."
+    },
+    "full_text": "NPK Complex 12:32:16 detailed catalog profile."
+  },
+  {
+    "id": "fert-cat-npk-191919-005",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Water Soluble NPK 19:19:19",
+      "hi": "जल में घुलनशील एनपीके 19:19:19"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "19%",
+      "phosphorus_p": "19%",
+      "potassium_k": "19%"
+    },
+    "physical_properties": {
+      "hi": "100% जल में घुलनशील क्रिस्टलीय पाउडर, ड्रिप सिंचाई (Fertigation) और पर्ण छिड़काव (Foliar spray) हेतु उपयुक्त।",
+      "en": "100% water-soluble crystalline powder ideal for fertigation and foliar spray."
+    },
+    "benefits": {
+      "hi": "पौधे द्वारा त्वरित अवशोषण, पोषक तत्वों की कमी का शीघ्र निवारण, और वानस्पतिक विकास में तेजी।",
+      "en": "Rapid nutrient uptake by foliage, quick correction of nutrient deficiencies, and accelerated vegetative growth."
+    },
+    "application_guidelines": {
+      "hi": "1 से 1.5 किलोग्राम प्रति एकड़ पानी में घोलकर पर्ण छिड़काव करें या ड्रिप सिंचाई के माध्यम से दें।",
+      "en": "Apply 1-1.5 kg per acre as foliar spray or via drip fertigation during active growth stages."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "application_method": "Foliar spray or drip irrigation."
+    },
+    "full_text": "Water Soluble NPK 19:19:19 detailed catalog profile."
+  },
+  {
+    "id": "fert-cat-zinc-sulfate-006",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Zinc Sulfate (21% Zn & 33% Zn)",
+      "hi": "जिंक सल्फेट (21% और 33% जस्ता)"
+    },
+    "nutrient_composition": {
+      "zinc_zn": "21% (or 33%)",
+      "sulfur_s": "10% (or 15%)"
+    },
+    "physical_properties": {
+      "hi": "सफेद (21%) या भूरे-धूसर (33%) रंग का क्रिस्टलीय चूर्ण, पानी में घुलनशील सूक्ष्म पोषक तत्व।",
+      "en": "White crystalline powder (21%) or greyish granules (33%), water-soluble essential micronutrient."
+    },
+    "benefits": {
+      "hi": "धान में खैरा रोग से बचाव, पौधों में क्लोरोफिल निर्माण, प्रकाश संश्लेषण में सुधार और एंजाइम सक्रियता बढ़ाना।",
+      "en": "Prevents khaira disease in rice, enhances chlorophyll synthesis, improves photosynthesis and enzymatic functions."
+    },
+    "application_guidelines": {
+      "hi": "10 किलोग्राम जिंक सल्फेट प्रति एकड़ यूरिया या गोबर की खाद के साथ मिलाकर मिट्टी में दें। कमी दिखने पर 0.5% घोल का छिड़काव करें।",
+      "en": "Apply 10 kg per acre mixed with soil/FYM during land preparation or spray 0.5% solution with lime."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "deficiency_symptoms": "Interveinal chlorosis in lower leaves and stunted growth."
+    },
+    "full_text": "Zinc Sulfate detailed catalog profile covering zinc and sulfur nutrition."
+  },
+  {
+    "id": "fert-cat-ssp-007",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Single Super Phosphate (SSP)",
+      "hi": "सिंगल सुपर फास्फेट (SSP)"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "0%",
+      "phosphorus_p": "16% (P2O5)",
+      "sulfur_s": "11%",
+      "calcium": "19%"
+    },
+    "physical_properties": {
+      "hi": "ग्रे रंग के दाने या चूर्ण, जिसमें फास्फोरस के साथ-साथ सल्फर और कैल्शियम प्रचुर मात्रा में होते हैं।",
+      "en": "Greyish granules or powder containing Phosphorus, Sulfur (11%), and Calcium (19%)."
+    },
+    "benefits": {
+      "hi": "मूल विकास, तिलहनी फसलों में तेल की मात्रा बढ़ाना, और दलहनी फसलों में जड़ ग्रंथियों (Nodulation) का विकास करना।",
+      "en": "Promotes root growth, increases oil content in oilseeds, and enhances root nodulation in pulses."
+    },
+    "application_guidelines": {
+      "hi": "अंतिम जुताई के समय मिट्टी में अच्छी तरह मिलाएँ।",
+      "en": "Incorporate thoroughly into the soil during final land preparation."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "multi_nutrient": "Provides P, S, and Ca simultaneously making it ideal for oilseeds and pulses."
+    },
+    "full_text": "Single Super Phosphate (SSP) detailed catalog profile."
+  },
+  {
+    "id": "fert-cat-sops-008",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Sulfate of Potash (SOP / Potassium Sulfate 0:0:50)",
+      "hi": "सल्फेट ऑफ पोटेशियम (SOP / 0:0:50)"
+    },
+    "nutrient_composition": {
+      "nitrogen_n": "0%",
+      "phosphorus_p": "0%",
+      "potassium_k": "50% (K2O)",
+      "sulfur_s": "17.5%"
+    },
+    "physical_properties": {
+      "hi": "सफेद जल में घुलनशील पाउडर, क्लोरीन मुक्त पोटाश उर्वरक।",
+      "en": "White water-soluble powder, chloride-free potassium and sulfur fertilizer."
+    },
+    "benefits": {
+      "hi": "बागवानी फसलों (फल, सब्जियां, आलू, तंबाकू) के लिए सर्वोत्तम, जो क्लोरीन के प्रति संवेदनशील होते हैं। फल की गुणवत्ता और मिठास बढ़ाता है।",
+      "en": "Ideal for chloride-sensitive horticultural crops (fruits, vegetables, potatoes). Enhances fruit quality, size, and sugar content."
+    },
+    "application_guidelines": {
+      "hi": "पर्ण छिड़काव (1%) या ड्रिप सिंचाई के माध्यम से दें।",
+      "en": "Apply via foliar spray (1%) or drip fertigation during fruit development stages."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "chloride_free": "Chloride-free nature prevents salt injury in sensitive crops."
+    },
+    "full_text": "Sulfate of Potash (SOP) detailed catalog profile."
+  },
+  {
+    "id": "fert-cat-gypsum-009",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Agricultural Gypsum (Calcium Sulfate)",
+      "hi": "कृषि जिप्सम (कैल्शियम सल्फेट)"
+    },
+    "nutrient_composition": {
+      "calcium": "23%",
+      "sulfur_s": "18%"
+    },
+    "physical_properties": {
+      "hi": "सफेद या भूरा चूर्ण, क्षारीय (Sodic/Alkaline) सुधारने के लिए उपयोग किया जाता है।",
+      "en": "White or greyish powder used primarily for sodic soil reclamation and supplying Calcium and Sulfur."
+    },
+    "benefits": {
+      "hi": "सोडियम युक्त क्षारीय मिट्टी का सुधार, मूंगफली में टिक्का/दाने भरना (Pod filling) सुधारना, और सल्फर की पूर्ति करना।",
+      "en": "Reclaims sodic/alkaline soils, improves pod filling in groundnuts, and provides readily available calcium and sulfur."
+    },
+    "application_guidelines": {
+      "hi": "मिट्टी की जांच के आधार पर रोपाई या बुवाई से पहले खेत में समान रूप से बिखेर कर जुताई करें।",
+      "en": "Broadcast uniformly and incorporate into soil prior to sowing/planting based on soil test."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "soil_reclamation": "Replaces exchangeable sodium with calcium, improving soil structure."
+    },
+    "full_text": "Agricultural Gypsum detailed catalog profile."
+  },
+  {
+    "id": "fert-cat-bio-010",
+    "category": "fertilizer_catalog_item",
+    "fertilizer_name": {
+      "en": "Bio-Fertilizers (Rhizobium, Azotobacter, PSB)",
+      "hi": "जैविक उर्वरक (राइजोबायम, एजोटोबैक्टर, पीएसबी)"
+    },
+    "nutrient_composition": {
+      "nitrogen_fixing": "Active bacterial strains",
+      "phosphorus_solubilizing": "PSB strains"
+    },
+    "physical_properties": {
+      "hi": "वाहक आधारित (Carrier-based) या तरल (Liquid) जैव उर्वरक जिसमें जीवित सूक्ष्मजीव होते हैं।",
+      "en": "Carrier-based or liquid bio-fertilizers containing live beneficial microorganisms."
+    },
+    "benefits": {
+      "hi": "वायुमंडलीय नाइट्रोजन का स्थिरीकरण, अघुलनशील फास्फोरस को घुलनशील बनाना, रासायनिक उर्वरकों की आवश्यकता 20-25% तक कम करना।",
+      "en": "Fixes atmospheric nitrogen, solubilizes fixed soil phosphorus, and reduces chemical fertilizer requirement by 20-25%."
+    },
+    "application_guidelines": {
+      "hi": "बुवाई से पहले बीज उपचार (Seed treatment) या गोबर की खाद (FYM) में मिलाकर मिट्टी में प्रयोग करें।",
+      "en": "Apply via seed inoculation or mix with well-decomposed FYM before soil application."
+    },
+    "verification_status": "verified",
+    "data_type": "official_static",
+    "source_ids": [
+      "src-icar-fertilizer-001"
+    ],
+    "detailed_sections": {
+      "eco_friendly": "Improves soil health, microbial biodiversity, and long-term fertility."
+    },
+    "full_text": "Bio-Fertilizers detailed catalog profile covering Rhizobium, Azotobacter, and PSB."
+  }
+]

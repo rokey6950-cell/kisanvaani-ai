@@ -1,0 +1,70 @@
+{
+  "id": "verification-report-001",
+  "generated": "2026-11-01",
+  "method": "Web search and page fetches on 2026-11-01. Evidence levels: fetched_full, search_excerpt, report_only.",
+  "totals": {
+    "sources_registered": 37,
+    "verified": 20,
+    "verified_fetched_full": 4,
+    "verified_search_excerpt_only": 16,
+    "not_verified": 17,
+    "broken_links": 0,
+    "inaccessible": 1,
+    "conflicting_sources": 1,
+    "claims_total": 22,
+    "claims_unresolved": 7,
+    "claims_rejected_or_unsupported": 2
+  },
+  "inaccessible": [
+    "https://api.imd.gov.in/public/api_reference.html (fetch refused; endpoint list unverified)"
+  ],
+  "conflicting_sources": [
+    "Report says current mandi dataset is the API route; data.gov.in page says its API does not exist."
+  ],
+  "key_findings": [
+    "Mandi: no working data.gov.in API/resource ID confirmed. Live mandi answers stay templates until one is tested.",
+    "IMD: free for non-commercial use only; written permission needed for production/commercial use. Endpoint details unverified.",
+    "Haryanvi: no Gnani confirmation found. Keep as accent testing only. Gnani Prisma/Timbre v3.0 now exist alongside the v2.5 in the project's stack.",
+    "The HAU sowing window is confirmed only from a search excerpt of an undated, possibly older package.",
+    "Only Himachal Pradesh wheat guidance was fully read from an official page. Haryana, Punjab, UP, Rajasthan and Uttarakhand have no fully verified crop packages yet.",
+    "The report's Meghalaya package values were excluded.",
+    "The report cites unrelated haryana.gov.in pages for data.gov.in and IMD claims; they were not used."
+  ],
+  "unverified_claims": [
+    "claim-004: data.gov.in resource API route is api.data.gov.in/resource/<id> with api-key",
+    "claim-005: A working mandi resource ID exists",
+    "claim-009: IMD has a dedicated Agromet Advisory API",
+    "claim-010: Mausam SANKALP block-level parameters (rain, Tmax/Tmin, RH, wind)",
+    "claim-014: PM-KISAN family = husband, wife and minor children",
+    "claim-018: Wheat first irrigation ~35 days after sowing (ICAR-IISWC)",
+    "claim-019: Wheat variety suitability (HD 2967, DBW 187, HD 3226, HDCSW 18, UP lists)"
+  ],
+  "missing_official_documents": [
+    "Current HAU wheat package of practices (full PDF, dated)",
+    "PAU, UP (CSAUK/SVPUAT), Rajasthan (SKRAU/MPUAT), Uttarakhand (GBPUAT) crop packages",
+    "Haryana, Punjab, UP, Rajasthan, Uttarakhand state scheme notifications",
+    "PMFBY notification/guidelines from pmfby.gov.in",
+    "PM-KISAN full operational guidelines text",
+    "CIB&RC registered pesticide uses and label claims",
+    "LGD district list for all seven regions",
+    "IMD API reference and terms",
+    "Official data.gov.in OGD API documentation",
+    "Gnani per-language support tables"
+  ],
+  "empty_files_and_reasons": {
+    "geography/districts.json": "Needs official LGD district list",
+    "crops/*(except wheat, catalog)": "No state-university source verified",
+    "soil/*": "No source opened",
+    "fertilizers/*": "Only a rejected Meghalaya package seen; no Northern India doses verified",
+    "plant_protection/*": "No registered-use, dose, stage and PHI evidence; chemical advice intentionally empty",
+    "schemes/state_schemes.json": "No state scheme page verified",
+    "mandi/mandi_catalog.json": "Needs live API rows",
+    "weather/agromet_advisory_mapping.json": "Needs IMD advisory fields"
+  },
+  "limitations": [
+    "Most 'verified' entries rest on search excerpts, not full documents.",
+    "No API call to data.gov.in or IMD was made (no keys).",
+    "Dates of many documents are unknown.",
+    "Hindi answers were written by Claude from verified facts and need native-speaker review."
+  ]
+}
